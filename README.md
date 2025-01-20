@@ -30,7 +30,7 @@
 
 1. **Sistema de Gestión en AWS**:  
    Implementación de un sistema de manejo de datos utilizando **Lex, DynamoDB, Bedrock y S3**.  
-   [🔗 Ver Proyecto](#)
+   [🔗 Ver Proyecto](https://github.com/limonheiro/chat_academia)
 
 2. **Optimización de Redes en EdgeUno**:  
    Administración y optimización de routers y conectividad para garantizar alta disponibilidad.
@@ -48,9 +48,8 @@ Unirme a un equipo innovador donde pueda contribuir con mis habilidades y contin
 
 ## 📬 Contáctame
 
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
-- 🐦 [Twitter](https://twitter.com/tu-usuario)
-- 📧 **Correo Electrónico**: tu.correo@ejemplo.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kyskaharrington/)
+- 📧 **Correo Electrónico**: kyska.nataly@hotmail.com
 
 ---
 
