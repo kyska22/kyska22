@@ -1,55 +1,55 @@
-# 🌟 Bienvenidos a Mi Perfil de GitHub
+# 🌟 Welcome to My GitHub Profile
 
-¡Hola! Soy Kyska Harrington, un apasionado programador con experiencia en **seguridad de la información** y **desarrollo de sistemas complejos**. Estoy en constante aprendizaje y búsqueda de oportunidades para aplicar mis habilidades técnicas y creativas en proyectos desafiantes.
-
----
-
-## 📋 Sobre mí
-
-- 🎓 Ingeniero de Sistemas con **15 años de experiencia** en la industria tecnológica.
-- 🛠 Experto en **seguridad de la información** y administración de redes, con 2 años en el NOC de EdgeUno.
-- 🌐 Explorando y desarrollando soluciones en **AWS Cloud** (Lex, DynamoDB, Bedrock, S3).
-- 🚀 Apasionado por resolver problemas y optimizar sistemas para lograr **rendimiento y seguridad excepcionales**.
+Hi! I’m Kyska Harrington, a passionate programmer with experience in **information security** and **complex system development**. I’m constantly learning and seeking opportunities to apply my technical and creative skills to challenging projects.
 
 ---
 
-## 💻 Habilidades Técnicas
+## 📋 About Me
 
-| Lenguaje/Plataforma     | Nivel de Dominio      |
+- 🎓 Systems Engineer with **10 years of experience** in the tech industry.
+- 🛠 Expert in **information security** and network administration, with 2 years of experience at EdgeUno’s NOC.
+- 🌐 Exploring and building solutions on **AWS Cloud** (Lex, DynamoDB, Bedrock, S3).
+- 🚀 Passionate about solving problems and optimizing systems for **performance and security excellence**.
+
+---
+
+## 💻 Technical Skills
+
+| Language/Platform       | Proficiency Level    |
 |-------------------------|-----------------------|
-| **Python**              | ★★★★☆ (Avanzado)     |
-| **Bash/Shell Scripting**| ★★★☆☆ (Intermedio)   |
-| **JavaScript**          | ★★★☆☆ (Intermedio)   |
-| **AWS (Servicios Clave)**| ★★★★☆ (Avanzado)    |
-| **Markdown/GitHub**     | ★★★★☆ (Avanzado)     |
-| **Redes y Conectividad**| ★★★★☆ (Avanzado)     |
+| **Python**              | ★★★★☆ (Advanced)     |
+| **Bash/Shell Scripting**| ★★★☆☆ (Intermediate) |
+| **JavaScript**          | ★★★☆☆ (Intermediate) |
+| **AWS (Key Services)**  | ★★★★☆ (Advanced)     |
+| **Markdown/GitHub**     | ★★★★☆ (Advanced)     |
+| **Networking/Connectivity** | ★★★★☆ (Advanced) |
 
 ---
 
-## 📈 Proyectos Destacados
+## 📈 Highlighted Projects
 
-1. **Sistema de Gestión en AWS**:  
-   Implementación de un sistema de manejo de datos utilizando **Lex, DynamoDB, Bedrock y S3**.  
-   [🔗 Ver Proyecto](https://github.com/limonheiro/chat_academia)
+1. **AWS Management System**:  
+   Designed and implemented a data management system using **Lex, DynamoDB, Bedrock, and S3**.  
+   [🔗 View Project](https://github.com/limonheiro/chat_academia)
 
-2. **Optimización de Redes en EdgeUno**:  
-   Administración y optimización de routers y conectividad para garantizar alta disponibilidad.
+2. **Network Optimization at EdgeUno**:  
+   Managed and optimized routers and connectivity to ensure high availability.
 
-3. **Scripts de Automatización**:  
-   Desarrollo de scripts personalizados en **Python** y **Bash** para automatizar tareas administrativas.
-
----
-
-## 🌟 Busco...
-
-Unirme a un equipo innovador donde pueda contribuir con mis habilidades y continuar desarrollándome como programador. Estoy abierto a **colaboraciones remotas** o presenciales en proyectos relacionados con **seguridad de la información**, **desarrollo en la nube**, o **automatización de procesos**.
+3. **Automation Scripts**:  
+   Developed custom scripts in **Python** and **Bash** to automate administrative tasks.
 
 ---
 
-## 📬 Contáctame
+## 🌟 Seeking...
+
+I’m looking to join an innovative team where I can contribute my skills and continue growing as a programmer. I’m open to **remote** or on-site opportunities in **information security**, **cloud development**, or **process automation**.
+
+---
+
+## 📬 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kyskaharrington/)
-- 📧 **Correo Electrónico**: kyska.nataly@hotmail.com
+- 📧 **Email**: kyska.nataly@hotmail.com
 
 ---
 
@@ -57,7 +57,9 @@ Unirme a un equipo innovador donde pueda contribuir con mis habilidades y contin
 
 ---
 
-¡Gracias por visitar mi perfil! Si tienes un proyecto emocionante, no dudes en contactarme. 🚀
+Thank you for visiting my profile! If you have an exciting project, feel free to reach out. 🚀
+
+
 <!---
 kyska22/kyska22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
