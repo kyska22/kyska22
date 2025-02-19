@@ -71,6 +71,8 @@ Thank you for visiting my profile! If you have an exciting project, feel free to
 <!---
 kyska22/kyska22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 
 ![Snake animation](https://github.com/kyska22/kyska22/blob/output/github-contribution-grid-snake.svg)
+--->
+
+
