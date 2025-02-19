@@ -17,12 +17,14 @@ Hi! I’m Kyska Harrington, a passionate programmer with experience in **informa
 
 | Language/Platform       | Proficiency Level    |
 |-------------------------|-----------------------|
-| **Python**              | ★★★★☆ (Advanced)     |
-| **Bash/Shell Scripting**| ★★★☆☆ (Intermediate) |
-| **JavaScript**          | ★★★☆☆ (Intermediate) |
-| **AWS (Key Services)**  | ★★★★☆ (Advanced)     |
-| **Markdown/GitHub**     | ★★★★☆ (Advanced)     |
+| **Python**  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="20" width="20" />  | ★★★★☆ (Advanced)     |
+| **Bash/Shell Scripting** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="20" width="20" /> | ★★★☆☆ (Intermediate) |
+| **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20" width="20" />         | ★★★☆☆ (Intermediate) |
+| **AWS (Key Services)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20" width="20" /> | ★★★★☆ (Advanced)     |
+| **Markdown/GitHub** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="20" width="20" />    | ★★★★☆ (Advanced)     |
 | **Networking/Connectivity** | ★★★★☆ (Advanced) |
+
+
 
 ---
 
@@ -32,11 +34,14 @@ Hi! I’m Kyska Harrington, a passionate programmer with experience in **informa
    Designed and implemented a data management system using **Lex, DynamoDB, Bedrock, and S3**.  
    [🔗 View Project](https://github.com/limonheiro/chat_academia)
 
-2. **Network Optimization at EdgeUno**:  
-   Managed and optimized routers and connectivity to ensure high availability.
-
-3. **Automation Scripts**:  
+2. **Automation Scripts**:  
    Developed custom scripts in **Python** and **Bash** to automate administrative tasks.
+
+<div>
+<a href="https://github.com/kyska22">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyska22&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kyska22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 
@@ -48,12 +53,15 @@ I’m looking to join an innovative team where I can contribute my skills and co
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kyskaharrington/)
-- 📧 **Email**: kyska.nataly@hotmail.com
+<div>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:kyska.nataly@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kyskaharrington/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ---
 
-- ⚡ Fun fact: I'm TDAH & TEA
+**⚡ Fun fact:** I'm TDAH & TEA
 
 ---
 
@@ -64,3 +72,5 @@ Thank you for visiting my profile! If you have an exciting project, feel free to
 kyska22/kyska22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Snake animation](https://github.com/kyska22/kyska22/blob/output/github-contribution-grid-snake.svg)
